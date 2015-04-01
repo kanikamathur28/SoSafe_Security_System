@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry excluding="simulator/SoundFiles/" kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="C:/Users/Vaibhav Nipunage/Desktop/New folder/j3d-core-1.3.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Vaibhav Nipunage/Desktop/New folder/j3d-core-1.3.1.jar.zip"/>
+	<classpathentry kind="lib" path="C:/Users/Vaibhav Nipunage/Desktop/New folder/jmf.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Vaibhav Nipunage/Desktop/New folder/jmf-2.1.1e.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Vaibhav Nipunage/Desktop/New folder/mediaplayer.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Vaibhav Nipunage/Desktop/New folder/jcalendar-1.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Vaibhav Nipunage/Desktop/New folder (2)/swingx-all-1.6.4.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
